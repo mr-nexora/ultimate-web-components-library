@@ -10,22 +10,29 @@ The purpose of this library is to master semantic UI architecture by evolving co
 
 Click on any section below to explore its documentation, structural variants, and progressive source code.
 
-* 📂 [01. Navbar & Header](./01-navbar-header/) — Navigation bars, mega menus, and search fields.
-* 📂 [02. Hero Section](./02-hero-section/) — High-converting website banners, sliders, and CTAs.
-* 📂 [03. About Us](./03-about-us/) — Brand stories, mission statements, and corporate profiles.
-* 📂 [04. Our Team](./04-our-team/) — Member grids, profile cards, and social handle integrations.
-* 📂 [05. Stat Counter](./05-stat-counter/) — Milestone tickers, performance data, and achievements.
-* 📂 [06. Services & Features](./06-services-features/) — Service grids, feature lists, and value propositions.
-* 📂 [07. Product Catalog](./07-product-catalog-gallery/) — E-commerce grids, product showcases, and galleries.
-* 📂 [08. Pricing Table](./08-pricing-table/) — Comparative subscription tiers and feature matrices.
-* 📂 [09. Testimonials](./09-testimonials-reviews/) — User reviews, feedback sliders, and rating cards.
-* 📂 [10. Client Logos](./10-client-logos-partners/) — Partner showcases and trust-building logo bars.
-* 📂 [11. FAQ Section](./11-faq-section/) — Expandable accordions and frequent user queries.
-* 📂 [12. Contact & Location](./12-contact-us-location/) — Maps, reach-out details, and office addresses.
-* 📂 [13. Lead Gen Forms](./13-lead-generation-form/) — Newsletters, high-converting contact and auth forms.
-* 📂 [14. Blog & News](./14-blog-latest-news/) — Content cards, article grids, and recent updates.
-* 📂 [15. Footer Section](./15-footer-section/) — Dynamic footers, legal text links, and copyrights.
+Here is the attractive, simple English markdown table for your main `README.md` file.
 
+---
+
+| Folder Name | Topic Description | Key Concepts & Tags |
+| --- | --- | --- |
+| 📂 [`01-navbar-header`](https://www.google.com/search?q=./01-navbar-header/) | **Navbar & Header:** The top section of a website containing the main menu, website logo, and search bar. | `<header>`, `<nav>`, `<a>`, `<input type="search">`, Logo alignment, Dropdown menus |
+| 📂 [`02-hero-section`](https://www.google.com/search?q=./02-hero-section/) | **Hero Section / Banner:** The large main banner seen immediately upon opening a website. Contains big headings and CTA buttons. | `<h1>`, `<button>`, Dynamic Sliders, Background Images, CTA optimization |
+| 📂 [`03-about-us`](https://www.google.com/search?q=./03-about-us/) | **About Us Section:** The section that describes the company history, goals, vision, and mission. | `<section>`, `<article>`, `<p>`, Typography, Multi-column layout grids |
+| 📂 [`04-our-team`](https://www.google.com/search?q=./04-our-team/) | **Our Team / Founders:** A block displaying member profiles, photos, job titles, and social media links. | `<img>`, `<h4>`, Profile Cards, Social Icon integration, Grid layouts |
+| 📂 [`05-stat-counter`](https://www.google.com/search?q=./05-stat-counter/) | **Stat Counter / Milestones:** A section showing company achievements, numbers, and statistics dynamically. | `<span>`, `<strong>`, Data tickers, Counter animations, Milestone grids |
+| 📂 [`06-services-features`](https://www.google.com/search?q=./06-services-features/) | **Services & Features:** A grid or list highlighting what services or product features the business offers. | `<ul>`, `<li>`, Feature Cards, SVG Icon integration, Flexbox/Grid boxes |
+| 📂 [`07-product-catalog-gallery`](https://www.google.com/search?q=./07-product-catalog-gallery/) | **Product Catalog / Gallery:** A neat layout to display products, e-commerce items, or a portfolio photo gallery. | `<figure>`, `<figcaption>`, E-commerce grids, Image Hover effects, Lightbox layouts |
+| 📂 [`08-pricing-table`](https://www.google.com/search?q=./08-pricing-table/) | **Pricing Table:** A comparison table showing different pricing packages, plans, and features. | `<table>`, `<tr>`, `<th>`, `<td>`, `colspan`, Package comparison matrices |
+| 📂 [`09-testimonials-reviews`](https://www.google.com/search?q=./09-testimonials-reviews/) | **Testimonials / Reviews:** Customer feedback, reviews, quotes, and star-ratings to build trust. | `<blockquote>`, `<cite>`, User feedback blocks, Review sliders, Star rating displays |
+| 📂 [`10-client-logos-partners`](https://www.google.com/search?q=./10-client-logos-partners/) | **Client Logos / Partners:** A horizontal section displaying logos of trusted clients, partners, or sponsors. | `<img>`, Infinite loop scrollers, Logo grids, Trust-building elements |
+| 📂 [`11-faq-section`](https://www.google.com/search?q=./11-faq-section/) | **FAQ Section:** Frequently Asked Questions built with clickable blocks to show and hide answers. | `<details>`, `<summary>`, Accordions, Text collapse, Searchable FAQs |
+| 📂 [`12-contact-us-location`](https://www.google.com/search?q=./12-contact-us-location/) | **Contact & Location:** A contact section containing maps, addresses, telephone numbers, and emails. | `<iframe>`, `<address>`, Google Maps integration, Contact details alignment |
+| 📂 [`13-lead-generation-form`](https://www.google.com/search?q=./13-lead-generation-form/) | **Lead Gen Forms:** Interactive areas for user messages, account registration, login, or newsletter signup. | `<form>`, `<input>`, `<button>`, Input validation, Modern form design |
+| 📂 [`14-blog-latest-news`](https://www.google.com/search?q=./14-blog-latest-news/) | **Blog & News:** Cards displaying the latest articles, posts, and news stories with dynamic layouts. | `<article>`, Text truncation, Read more buttons, Card grids |
+| 📂 [`15-footer-section`](https://www.google.com/search?q=./15-footer-section/) | **Footer Section:** The bottom block of the webpage containing legal text links, copyrights, and sitemaps. | `<footer>`, Copyright lines, Dynamic footer layouts, Social icons |
+
+---
 ---
 
 ## 🛠️ Progressive Architecture
