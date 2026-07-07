@@ -41,9 +41,8 @@ Every folder follows a strict structural evolution blueprint:
 
 Let's collaborate or talk about full-stack development and cybersecurity engineering!
 
-* **GitHub Profile:** [github.com/your-username](https://github.com/mr-nexora/) 
-* **LinkedIn Profile:** [linkedin.com/in/your-username](https://www.linkedin.com/in/mrnexora/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrnexora/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mr-nexora/)
 ---
 
 ## 📄 Copyright & Licensing
